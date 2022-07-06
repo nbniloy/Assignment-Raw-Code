@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    font-family: 'Arima', cursive;
+}
+
+#banner{
+    background-image: url("donation5.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: scroll;
+   text-align: center;
+   height: 700px;
+   color: white;
+   
+}
+
+.headtext{
+    
+    padding-top: 210px;
+    text-align: center;
+}
+
+
+
+.mainh{
+    
+    font-weight: bold;
+    font-size: 70px;
+    display: inline;
+    justify-content: center;
+    
+}
+
+
+
+.para{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+
+.button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: rgba(247, 35, 35, 0.904);
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+
+
+
+.headtext2{
+    
+    padding-top: 60px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+
+.mainh2{
+    
+    font-weight: bold;
+    font-size: 55px;
+    display: inline;
+    justify-content: center;
+    
+
+}
+
+
+.para2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.boxbar{
+    display: flex;
+   
+
+}
+
+
+
+
+
+
+
+
+.box1{
+    margin-left: 240px;
+    padding: 40px;
+    background-color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.box2{
+    padding: 40px;
+    background-color: aliceblue;
+    margin-left: 90px;
+    color: brown;
+    border: 5px solid tomato;
+    box-shadow: 8px;
+    font-weight: bold;
+    border-radius: 3px;
+    font-size: 30px;
+}
+
+
+.box3{
+    padding: 40px;
+    background-color: aliceblue;
+    margin-left: 90px;
+    font-weight: bold;
+    border-radius: 3px;
+    font-size: 30px;
+}
+
+.box4{
+    padding: 40px;
+    background-color: aliceblue;
+    margin-left: 90px;
+    font-weight: bold;
+    border-radius: 3px;
+    font-size: 30px;
+
+}
+
+.box5{
+    margin-right: 240px;
+    padding: 40px;
+    background-color: aliceblue;
+    margin-left: 90px;
+    font-weight: bold;
+    border-radius: 3px;
+    font-size: 30px;
+}
+
+
+.amount{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+}
+
+
+
+
+.banner3{
+  
+   text-align: center;
+  
+   color: black;
+   
+}
+
+.card{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
+
+
+
+.card img{
+    height: 100px;
+    width: 100px;
+    
+}
+
+
+.card1{
+    padding: 40px;
+    background-color: bisque;
+    border: 2px solid black;
+    
+}
+
+.card2{
+    padding: 40px;
+    background-color: blanchedalmond;
+    margin-left: 40px;
+    border: 2px solid black;
+}
+
+.card3{
+    padding: 40px;
+    background-color: aquamarine;
+    margin-left: 40px;
+    border: 2px solid black;
+}
+
+.extra{
+    display: flex;
+    height: 715px;
+  margin-left: 100px;
+    margin-right: 100px;
+    background-color: azure;
+}
+
+
+.extra .txt{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+   
+}
+
+.extra .icn{
+    width: 50%;
+    display: flex !important;
+  
+}
+
+.icn img{
+    
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 300px;
+}
+
+.icn h2{
+    margin-left: 70px;
+}
+
+.icn p{
+    margin-left:70px ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.parap{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+
+.update{
+    text-align: center;
+    
+}
+
+.flicon{
+    margin-top: 100px;
+    height: 30px;
+    width: 30px;
+}
+
+.updateparas{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.emailpad{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 100px;
+    background-color: bisque;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.eml{
+    height: 50px;
+    background-color: rgb(212, 192, 192);
+    font-size: 20px;
+    
+}
+
+.updbtn{
+    margin-left: 10px;
+}
+
+
+.footer{
+    height: 280px;
+    width: 100%;
+    background-color: black;
+}
+
+
+.fdiv{
+    margin-bottom: 10px;
+    
+}
+
+.fh{
+    color: white;
+    text-align:center;
+    padding-top: 70px;
+    
+}
+
+.fp{
+    color: white;
+    text-align:center;
+    margin-top: 20px;
+}
+
+
+
+
+
+
